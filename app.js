@@ -95,4 +95,3 @@ Restart.addEventListener('click',()=>{
 })
 
 
-// Homework Project: Rock paper scissor
